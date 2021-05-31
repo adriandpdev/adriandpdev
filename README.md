@@ -16,7 +16,7 @@
   
 </div>
 <div align="center"> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26??&style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?&style=for-the-badge&logo=javascript&logoColor=white" /><img src="https://img.shields.io/badge/AngularJS-E23237?&style=for-the-badge&logo=angular&logoColor=white" /><img src="https://img.shields.io/badge/PHP-777BB4?&style=for-the-badge&logo=php&logoColor=white" /><img src="https://img.shields.io/badge/Laravel-FF2D20?&style=for-the-badge&logo=laravel&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26??&style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?&style=for-the-badge&logo=javascript&logoColor=white" /><img src="https://img.shields.io/badge/Angular-E23237?&style=for-the-badge&logo=angular&logoColor=white" /><img src="https://img.shields.io/badge/PHP-777BB4?&style=for-the-badge&logo=php&logoColor=white" /><img src="https://img.shields.io/badge/Laravel-FF2D20?&style=for-the-badge&logo=laravel&logoColor=white" /> 
 </div> 
 <div align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" /><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/Express.js-404D59?&style=for-the-badge&logo=express&logoColor=white" />

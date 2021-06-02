@@ -5,9 +5,9 @@
   <img alt="Github stars" src="https://img.shields.io/github/stars/adriandpdev?logo=GitHub&style=for-the-badge" />
 </p>
 
-- 🔭 Actualmente estoy estudiando el grado superior de Desarrollo de Aplicaciones Multiplataforma, realizando la formación en centros de trabajo.
+- 🔭 Técnico superior en Desarrollo de Aplicaciones Multiplataforma.
 
-- 👯 Me gustaria colaborar en proyectos con otros desarrolladores
+- 👯 En busca de tiempo...
 
 
 ## Tech stack:

@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-00000F?&style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" /><img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white"><img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" /><img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white">
 </div>
 
 ## My Stats 

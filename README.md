@@ -6,27 +6,20 @@
 </p>
 
 - 🔭 Técnico superior en Desarrollo de Aplicaciones Multiplataforma.
-- ☁️ Estudiando la nube.
+- ☁️ Estudiando en la nube.
 - 🖥️ Pensando en nuevos retos...
 
-
 ## Tech stack:
-<div align="center"> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26??&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-323330?&style=for-the-badge&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/Angular-E23237?&style=for-the-badge&logo=angular&logoColor=white"/><img src="https://img.shields.io/badge/Astro-BC52EE?&style=for-the-badge&logo=Astro&logoColor=white"/>
-</div> 
 <div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/Express.js-404D59?&style=for-the-badge&logo=express&logoColor=white"/>
-</div> 
-<div align="center">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?&style=for-the-badge&logo=SpringBoot&logoColor=white"/><img src="https://img.shields.io/badge/Jenkins-D24939?&style=for-the-badge&logo=Jenkins&logoColor=white"/><img src="https://img.shields.io/badge/OpenShift-EE0000?&style=for-the-badge&logo=RedHatOpenShift&logoColor=white"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-00000F?&style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white"><img src="https://img.shields.io/badge/Azure%20Devops-0078D7.svg?&style=for-the-badge&logo=AzureDevOps&logoColor=white">
-</div>
+  <h5>FrontEnd & BackEnd</h5>
+  <img src="https://skillicons.dev/icons?i=angular,astro,react,typescript,tailwind" />
+  <img src="https://skillicons.dev/icons?i=java,spring,py,nodejs,express" />
 
+  <h5>Data, tools & cloud</h5>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,jenkins,postman" />
+  <img src="https://skillicons.dev/icons?i=azure,cloudflare,openshift,vercel" />
+</div>
 
 ## My Stats 
 
